@@ -1,7 +1,7 @@
 # 💫 About Me:
 👩‍💻I am a Computer Science and Engineering (CSE) student at North South University with a strong interest in<br> software development, databases, and web technologies. ✨✨<br> I am passionate about building innovative applications and problem-solving.<br><br>Feel free to connect and collaborate! 🚀
-<img src="https://github.com/user-attachments/assets/7a5933c3-9748-4f7c-8346-5ae21fd137a0
-" width="250" align="right">
+
+<img src="https://github.com/user-attachments/assets/2741c64a-63ec-4257-8544-4548d660eb76" width="250" align="right">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/1084476140942545038) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anika.hossain.little.engineer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anika-hossain-525992280) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anikahossain544@gmail.com) 
