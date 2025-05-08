@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻I am a Computer Science and Engineering (CSE) student at North South University with a strong interest in<br> software development, databases, and web technologies. ✨✨<br> I am passionate about building innovative applications and problem-solving.<br><br>Feel free to connect and collaborate!
+👩‍💻Hi!! I am Anika Hossain, a Computer Science and Engineering (CSE) student at North South University with a strong interest in<br> software development, databases, and web technologies. ✨✨<br> I am passionate about building innovative applications and problem-solving.<br><br>Feel free to connect and collaborate!
 
 ![Image](https://github.com/user-attachments/assets/33e60ec3-a0d3-4d19-8249-33d997a655de)
 
