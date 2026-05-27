@@ -35,8 +35,8 @@
 </tr>
 </table>
 
----
----
+
+
 
 ## 📬 Reach Me On
 
@@ -56,8 +56,7 @@
  
 </p>
 
----
----
+
 
 ## 🛠️ Languages & Tools I Have Placed My Hands On
 
@@ -65,7 +64,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,flask,pytorch,tensorflow,sklearn,opencv,unity,git,github,vscode,pycharm,mysql,sqlite,figma,linux,bash,docker&perline=8" />
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -92,30 +91,6 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anika2121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anika2121&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anika2121&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anika2121&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
----
 
 ## 🚀 Featured Projects
 
